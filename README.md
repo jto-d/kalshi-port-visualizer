@@ -3,3 +3,6 @@ comparison to SPY
 
 inspiration:
 RH, chess.com
+
+
+full next.js?
